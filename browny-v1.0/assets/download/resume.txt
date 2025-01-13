@@ -1,0 +1,86 @@
+Niveditha J -Student
+
+
+About
+
+I am Niveditha.J, a diligent and enthusiastic student currently
+pursuing a Bachelor's degree in Computer Science
+Engineering. With a keen interest in the ever-evolving field of
+technology, I am dedicated to honing my skills and staying
+abreast of the latest trends and developments in all sort of
+field.
+
+Certifications
+
+DIGITAL SKILLS: Artificial Intelligence-ACCENTURE
+Introduction to Business Intelligence -Infosys Springboard
+Prompt Engineering for ChatGPT
+Python for Data Science, AI &
+Development offered through Coursera
+NLP projects offered by Great Learning
+Explore Gen Ai with Copliot and Bing
+offered by Microsoft
+
+Skills Summary
+
+Python- 91%
+
+Pandas,numpy,Mattplotlib- 89%
+
+C++- 88%
+
+Java- 86%
+
+SQL-  85%
+
+HTMl,CSS and Javascript- 83%
+
+Tableau- 81%
+
+
+
+Projects
+
+Emotion Detection from Image:
+
+This project uses a pre-trained emotion detection model to predict the emotion of a person from an image. The emotion categories include:
+Angry,Disgust,Fear,Happy,Sad,Surprise and Neutral.
+
+Placement-AnalysisChatbot-with-NLP:
+An incredible tool for analysing most FAQ's from an interview.
+
+Python-capstoneprojects:
+Biding auction-calculator-Coffee
+maker-Higher lower gamenumber guessing-Hangman
+game-Turtle race using turtle
+module-cipher text.
+
+Education
+
+RMK College of Engineering & Technology
+Bachelor's degree, Computer Science ·
+2022 - 2026
+
+Sir Sivaswami Kalalaya Higher Secondary
+school
+High school
+2020 - 2022
+
+
+Contact
+
+nivedithaj005@gmail.com
+
+www.linkedin.com/in/nivedithaj-67663724b
+
+https://github.com/Niveditha-J
+
+
+Language
+
+Tamil (Native or Bilingual)
+English (Professional
+Working)
+
+
+
